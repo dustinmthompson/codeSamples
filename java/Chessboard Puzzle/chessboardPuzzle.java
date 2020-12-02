@@ -2,6 +2,8 @@
  * A room contains an 8x8 chessboard with 64 coins spread across it, either being heads or tails. Given a "magic square",
  * a prisoner must flip one coin only to communicate to another prisoner what the "magic square" is. If the second prisoner can successfully
  * find the magic square, both prisoners are freed.
+ *
+ * http://datagenetics.com/blog/december12014/index.html
  */
 
 package intermediate;
